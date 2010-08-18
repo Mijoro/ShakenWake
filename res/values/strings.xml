@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">TheApp</string>
+<string name="mainHeader">Welcome to ShakenWake</string>
+<string name="prompt_hour">Hour:</string>
+<string name="prompt_minute">Minute:</string>
+<string name="prompt_ampm">AM / PM?</string>
+<string-array name="hours_choices">
+	<item>1</item>
+	<item>2</item>
+	<item>3</item>
+	<item>4</item>
+	<item>5</item>
+	<item>6</item>
+	<item>7</item>
+	<item>8</item>
+	<item>9</item>
+	<item>10</item>
+	<item>11</item>
+	<item>12</item>
+</string-array>
+<string name="wake_banner">Good Morning! (ShakenWake)</string>
+<string name="subHeader">An alarm clock you to shake to turn off</string>
+</resources>
